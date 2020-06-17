@@ -1,0 +1,20 @@
+body {
+    background-color: #8470FF;
+    width: 100%;
+    line-height: 1;
+    position: relative;
+}
+
+.content {
+    background-color: #aeb79b;
+    position: absolute;
+    border-radius: 15px;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    margin: auto;
+    left: 50%;
+    
+    transform: translatex(-50%);
+}
